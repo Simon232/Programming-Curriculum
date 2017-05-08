@@ -16,7 +16,7 @@ Index of resources
 - Total Experience: 3240 XP
 
 
-## D. BOOKS
+## B. BOOKS
 - Jon Duckett - JavaScript and JQuery: Interactive Front-End Web Development
 - Douglas Crockford - JavaScript: The Good Parts
 - ...
